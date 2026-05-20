@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=BE%20CELEB&fontSize=55&fontAlign=50&fontAlignY=40&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn&width=1200" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=BUILDING%20THE%20NEXT%20TREND&fontSize=38&fontAlign=50&fontAlignY=40&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn&width=1200" />
 
 </div>
 
