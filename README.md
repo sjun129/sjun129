@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=BUILDING%20THE%20NEXT%20TREND&fontAlign=50&fontAlignY=40&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=SANGJUN%20SEO&fontSize=50&fontAlign=50&fontAlignY=40&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn&width=1200" />
 
 </div>
 
