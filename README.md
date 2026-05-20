@@ -1,4 +1,4 @@
-# <div align="center">⚡ 서상준 | Frontend Developer ⚡</div>
+# <div align="center"> 서상준 | Frontend Developer </div>
 
 <div align="center">
 
