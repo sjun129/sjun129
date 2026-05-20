@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=BE%20CREATOR%20OF%20THE%20NEXT%20TREND&fontAlign=50&fontAlignY=40&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=BUILDING%20THE%20NEXT%20TREND&fontAlign=50&fontAlignY=40&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn" />
 
 </div>
 
@@ -109,16 +109,6 @@ const sangjun = {
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjun129&theme=tokyo-night&hide_border=true&bg_color=00000000" width="95%"/>
-
-</div>
-
----
-
-# 🐍 Snake Animation
-
-<div align="center">
-
-![snake gif](https://github.com/sjun129/sjun129/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
