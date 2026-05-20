@@ -1,5 +1,5 @@
-# 안녕하세요 👋
-Frontend Developer 서상준입니다.
+## 안녕하세요
+Developer 서상준입니다.
 
 ## 🚀 Projects
 - Be Celeb
