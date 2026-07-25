@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hi,%20I'm%20Sangjun%20👋&fontSize=42&fontAlign=50&fontAlignY=38&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn&width=1200" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6D28D9,50:7C3AED,100:A855F7&animation=fadeIn&width=1200" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+Agent+Developer;Next.js+%2B+TypeScript+Developer;Building+CODE+Medi;Building+Busan+Port+AI+Logistics" />
 
@@ -84,8 +84,7 @@ CPX(임상수행평가) 가상환자 트레이너 — LLM 기반 표준화환자
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
+</table>
 
 ### 🛡️ TRAITHON 2026
 
@@ -95,22 +94,6 @@ AI 신뢰성 경진대회 — 클릭베이트 탐지 프로젝트 (9인 팀)
 - 👀 Human-in-the-loop 거버넌스 구조 설계
 
 `AI Reliability` `Cascade Architecture`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚔️ textbattle
-
-게임 캐릭터 디자인 & 전투 시스템 창작 작업
-
-- 🎨 애니메이션 스타일 캐릭터 디자인
-- 📊 전투 스탯 & 스킬 시스템 설계
-
-`Game Design` `Creative Writing`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
