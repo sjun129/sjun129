@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=BUILDING%20RELIABLE%20AI%20AGENTS&fontSize=38&fontAlign=50&fontAlignY=40&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn&width=1200" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+Agent+Developer;Next.js+%2B+TypeScript+Developer;Building+CODE+Medi;Building+Busan+Port+AI+Logistics" />
 
 <br/>
 
