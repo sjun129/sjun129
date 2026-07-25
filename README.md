@@ -51,10 +51,9 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 #### Achievements
 - **대한의학회 인증** 획득
 - CODE Medi 해커톤 **우수상**
-- 제11회 부울경 AI 융합 해커톤 **최우수상**
 ## 
 
-### Busan Port AI Logistics (2025 ~ )
+### PortIQ (2025 ~ )
 > 선박 ETA 예측 및 항만 혼잡도 예측 AI 플랫폼
 
 #### Tech Stack
@@ -66,6 +65,9 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 - 부산항 Expected Arrivals / Port Calls API 기반 실시간 선박 추적 기능 구현
 - 해양 데이터 벤더와의 협의를 통해 필요한 API 범위 정의
 - CODE Medi와 동일한 데이터-코드 분리 아키텍처(시드 파일 교체 방식) 적용
+## 
+#### Achievements
+- 제11회 부울경 AI 융합 해커톤
 ## 
 
 ### TRAITHON 2026 (2026 ~ )
