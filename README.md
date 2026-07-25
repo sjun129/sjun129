@@ -65,7 +65,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 - 부산항 Expected Arrivals / Port Calls API 기반 실시간 선박 추적 기능 구현
 - 해양 데이터 벤더와의 협의를 통해 필요한 API 범위 정의
 - CODE Medi와 동일한 데이터-코드 분리 아키텍처(시드 파일 교체 방식) 적용
-## 
+
 #### Achievements
 - 제11회 부울경 AI 융합 해커톤
 ## 
@@ -98,13 +98,13 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 
 <tr>
 <td><a href="https://github.com/sjun129/PatientPatient">CODE Medi 해커톤</a></td>
-<td>-</td>
+<td>동아대학교 소프트웨어혁신센터</td>
 <td>우수상</td>
 </tr>
 
 <tr>
-<td>제11회 부울경 AI 융합 해커톤</td>
-<td>-</td>
+<td><a href="https://github.com/sjun129/BUG_AI_Hackerton">제11회 부울경 AI 융합 해커톤</a></td>
+<td>부산광역시</td>
 <td>최우수상</td>
 </tr>
 
