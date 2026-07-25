@@ -1,14 +1,14 @@
-# <div align="center"> 서상준 | Frontend Developer </div>
+# <div align="center"> 서상준 | AI Agent Developer </div>
 
 <div align="center">
 
-### AI · Content Platform · Web Development
+### AI Agent Development · Full-Stack Web Development
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Frontend+Developer;Next.js+%2B+React+Developer;Building+AI+Content+Platforms;Creating+Be+Celeb" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=AI+Agent+Developer;Next.js+%2B+TypeScript+Developer;Building+CODE+Medi;Building+Busan+Port+AI+Logistics" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=BUILDING%20THE%20NEXT%20TREND&fontSize=38&fontAlign=50&fontAlignY=40&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn&width=1200" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=BUILDING%20RELIABLE%20AI%20AGENTS&fontSize=38&fontAlign=50&fontAlignY=40&color=0:6D28D9,50:7C3AED,100:A855F7&fontColor=ffffff&animation=fadeIn&width=1200" />
 
 </div>
 
@@ -18,45 +18,62 @@
 
 ```ts
 const sangjun = {
-  role: "Frontend Developer",
+  role: "AI Agent / Full-Stack Developer",
   stack: [
-    "Next.js",
-    "React",
+    "Next.js (App Router)",
     "TypeScript",
     "TailwindCSS",
-    "Supabase",
-    "OpenAI"
+    "Vercel AI SDK",
+    "OpenAI",
+    "Python"
   ],
 
-  currentProject: "Be Celeb",
+  currentProjects: ["CODE Medi", "Busan Port AI Logistics", "TRAITHON 2026"],
 
   interests: [
-    "AI Content Recommendation",
-    "Trend Analysis",
-    "SNS Content Strategy",
-    "Modern UI/UX"
+    "AI Agent Development",
+    "LLM-based Reasoning & Routing",
+    "AI Reliability & Governance",
+    "Modern Full-Stack Architecture"
   ],
 
-  goal: "Building the next AI-driven content platform 🚀"
+  goal: "Building reliable, real-world AI agents 🚀"
 }
 ```
 
 ---
 
-# 🚀 Main Project
+# 🚀 Main Projects
 
-## 🌟 Be Celeb
+## 🩺 CODE Medi
 
-> AI 기반 콘텐츠 추천 및 트렌드 분석 플랫폼
+> CPX(임상수행평가) 가상환자 트레이너 — LLM 기반 표준화환자 시뮬레이션 & 자동 채점 AI 에이전트
 
-### ✨ Features
+* 🗣️ LLM 에이전트가 표준화환자(SP) 역할 수행
+* 🩻 11종 신체진찰 유형에 대한 LLM 기반 라우팅
+* 📋 병력청취/신체진찰/환자교육/PPI/임상예절 2축 채점 모델
 
-* 🔥 최신 SNS 트렌드 분석
-* 🎬 AI 기반 콘텐츠 콘티 생성
-* 📈 인기 영상 패턴 분석
-* 🎯 사용자 맞춤형 콘텐츠 추천
-* 🧠 AI 기반 콘텐츠 아이디어 제공
+## 🚢 Busan Port AI Logistics
 
+> 선박 ETA 예측 및 항만 혼잡도 예측 AI 플랫폼
+
+* 📡 부산항 Expected Arrivals / Port Calls API 기반 실시간 선박 추적
+* 📊 데이터-코드 분리 아키텍처(시드 파일 교체 방식) 적용
+
+## 🛡️ TRAITHON 2026
+
+> AI 신뢰성 경진대회 — 클릭베이트 탐지 프로젝트 (9인 팀)
+
+* 🧩 캐스케이드 아키텍처 기반 탐지 파이프라인 설계
+* 👀 Human-in-the-loop 거버넌스 구조 설계
+
+
+# 🏆 Awards
+
+* **CODE Medi 해커톤** — 우수상
+* **제11회 부울경 AI 융합 해커톤** — 최우수상
+
+---
 
 # 🧩 Tech Stack
 
@@ -66,10 +83,10 @@ const sangjun = {
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css,js" />
 </p>
 
-## ⚙ Backend & DB
+## ⚙ Backend & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,supabase,firebase" />
 </p>
 
 ## 🛠 Tools
