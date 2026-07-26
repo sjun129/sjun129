@@ -31,8 +31,24 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 <br>
 
 ## Projects
+### [Be Celeb](https://github.com/sjun129/Be-Celeb) (2026.05)
+> AI 기반 콘텐츠 추천 및 트렌드 분석 플랫폼
 
-### [CODE Medi](https://github.com/sjun129/PatientPatient) (2025 ~ )
+#### Tech Stack
+![Next.js](https://img.shields.io/badge/Next.js-f5f5f5?style=flat)
+![React](https://img.shields.io/badge/React-f5f5f5?style=flat)
+![TypeScript](https://img.shields.io/badge/TypeScript-f5f5f5?style=flat)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-f5f5f5?style=flat)
+![Supabase](https://img.shields.io/badge/Supabase-f5f5f5?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-f5f5f5?style=flat)
+
+#### Key Contributions
+- 최신 SNS 트렌드 분석 기능 구현
+- AI 기반 콘텐츠 콘티 생성 기능 구현
+- 인기 영상 패턴 분석 및 사용자 맞춤형 콘텐츠 추천 로직 설계
+##
+
+### [CODE Medi](https://github.com/sjun129/PatientPatient) (2026.06)
 > CPX(임상수행평가) 가상환자 트레이너 — LLM 기반 표준화환자 시뮬레이션 & 자동 채점 AI 에이전트
 
 #### Tech Stack
@@ -53,7 +69,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 - CODE Medi 해커톤 **우수상**
 ## 
 
-### [PortIQ](https://github.com/sjun129/BUG_AI_Hackerton) (2025 ~ )
+### [PortIQ](https://github.com/sjun129/BUG_AI_Hackerton) (2026.07)
 > 선박 ETA 예측 및 항만 혼잡도 예측 AI 플랫폼
 
 #### Tech Stack
@@ -70,7 +86,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 - 제11회 부울경 AI 융합 해커톤
 ## 
 
-### TRAITHON 2026 (2026 ~ )
+### TRAITHON 2026 (2026.08 ~ )
 > AI 신뢰성 경진대회 — 클릭베이트 탐지 프로젝트 (9인 팀)
 
 #### Tech Stack
