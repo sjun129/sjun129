@@ -1,7 +1,7 @@
 <div align="center">
 
 ### AI Agent / Full-Stack Developer
-# Sangjun Seo
+# SangJun Seo
 
 <br>
 
@@ -53,7 +53,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 - CODE Medi 해커톤 **우수상**
 ## 
 
-### PortIQ (2025 ~ )
+### [PortIQ](https://github.com/sjun129/BUG_AI_Hackerton) (2025 ~ )
 > 선박 ETA 예측 및 항만 혼잡도 예측 AI 플랫폼
 
 #### Tech Stack
@@ -93,19 +93,29 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 <tr>
 <th>Award</th>
 <th>Organizer</th>
+<th>Date</th>
 <th>Result</th>
 </tr>
 
 <tr>
 <td><a href="https://github.com/sjun129/PatientPatient">CODE Medi 해커톤</a></td>
 <td>동아대학교 소프트웨어혁신센터</td>
+<td>2026.06</td>
 <td>우수상</td>
 </tr>
 
 <tr>
 <td><a href="https://github.com/sjun129/BUG_AI_Hackerton">제11회 부울경 AI 융합 해커톤</a></td>
 <td>부산광역시</td>
+<td>2026.07</td>
 <td>최우수상</td>
+</tr>
+
+<tr>
+<td>진로 또래 멘토링</td>
+<td>동아대학교 진로개발센터</td>
+<td>2026.01</td>
+<td>베스트커플상</td>
 </tr>
 
 </table>
