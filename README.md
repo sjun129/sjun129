@@ -87,7 +87,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 - 제11회 부울경 AI 융합 해커톤
 ## 
 
-### [MealChat](https://github.com/2026NoEsc/mealchat_v2) (2026.08)
+### [MealChat](https://github.com/2026NoEsc/mealchat_v2) (2026.08 ~ )
 > 밀챗 — 함께 먹을 사람을 연결하는 소셜 다이닝 앱
 
 #### Tech Stack
