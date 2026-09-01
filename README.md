@@ -135,10 +135,10 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 </tr>
 
 <tr>
-<td><a href="https://github.com/sjun129/PatientPatient">CODE Medi 해커톤</a></td>
-<td>동아대학교 소프트웨어혁신센터</td>
-<td>2026.06</td>
-<td>우수상</td>
+<td><a href="https://github.com/2026NoEsc/mealchat_v2">제3회 전국대학 소프트웨어 성과공유포럼</a></td>
+<td>부산광역시</td>
+<td>2026.08</td>
+<td>우수상 <br> 인기상 (투표 1위) </td>
 </tr>
 
 <tr>
@@ -149,17 +149,17 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 </tr>
 
 <tr>
+<td><a href="https://github.com/sjun129/PatientPatient">CODE Medi 해커톤</a></td>
+<td>동아대학교 소프트웨어혁신센터</td>
+<td>2026.06</td>
+<td>우수상</td>
+</tr>
+
+<tr>
 <td>진로 또래 멘토링</td>
 <td>동아대학교 진로개발센터</td>
 <td>2026.01</td>
 <td>베스트커플상</td>
-</tr>
-
-<tr>
-<td><a href="https://github.com/2026NoEsc/mealchat_v2">제3회 전국대학 소프트웨어 성과공유포럼</a></td>
-<td>부산광역시</td>
-<td>2026.08</td>
-<td>우수상 <br> 인기상 (투표 1위) </td>
 </tr>
 
 </table>
