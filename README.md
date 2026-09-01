@@ -1,5 +1,4 @@
 <div align="center">
- 
 ### AI Agent / Full-Stack Developer
 # SangJun Seo
  
@@ -10,7 +9,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 <br>
 <br>
 </div>
-
+---
  
 <br>
 ## Profile
@@ -21,7 +20,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 - 해커톤처럼 **짧은 시간 안에 실동작하는 결과물**을 만드는 환경에서 몰입합니다.
 - Next.js · TypeScript 기반의 **풀스택 개발과 AI SDK 연동**을 주력으로 합니다.
 <br>
-
+---
  
 <br>
 ## Projects
