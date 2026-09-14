@@ -145,7 +145,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 <td><a href="https://github.com/sjun129/BUG_AI_Hackerton">제11회 부울경 AI 융합 해커톤</a></td>
 <td>부산광역시</td>
 <td>2026.07</td>
-<td>최우수상</td>
+<td>최우수상(1위)</td>
 </tr>
 
 <tr>
