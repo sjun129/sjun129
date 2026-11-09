@@ -106,6 +106,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 
 #### Achievements
 - 제3회 전국대학 소프트웨어 성과공유포럼 **우수상 · 인기상(투표 1위)**
+- AI Co-Creation Camp **대상**
 ## 
 
 ### TRAITHON 2026 (2026.08 ~ )
@@ -133,6 +134,13 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 <th>Organizer</th>
 <th>Date</th>
 <th>Result</th>
+</tr>
+
+<tr>
+<td><a href="https://github.com/2026NoEsc/mealchat_v2"> AI Co-Creation Camp</a></td>
+<td>동아대학교 소프트웨어혁신센터</td>
+<td>2026.11</td>
+<td>대상</td>
 </tr>
 
 <tr>
