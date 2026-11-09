@@ -135,6 +135,13 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 </tr>
 
 <tr>
+<td><a href="https://github.com/sjun129/BUG_AI_Hackerton"> Dev Day 일반트랙</a></td>
+<td>동아대학교 소프트웨어혁신센터</td>
+<td>2026.08</td>
+<td>우수상</td>
+</tr>
+
+<tr>
 <td><a href="https://github.com/2026NoEsc/mealchat_v2">제3회 전국대학 소프트웨어 성과공유포럼</a></td>
 <td>부산광역시</td>
 <td>2026.08</td>
