@@ -84,7 +84,8 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 - CODE Medi와 동일한 데이터-코드 분리 아키텍처(시드 파일 교체 방식) 적용
 
 #### Achievements
-- 제11회 부울경 AI 융합 해커톤
+- 제11회 부울경 AI 융합 해커톤 **최우수상**
+- 동아대학교 Dev Day **우수상**
 ## 
 
 ### [MealChat](https://github.com/2026NoEsc/mealchat_v2) (2026.08 ~ )
@@ -137,7 +138,7 @@ AI 에이전트를 실전 도메인에 적용하는 데 집중하고 있습니�
 <tr>
 <td><a href="https://github.com/sjun129/BUG_AI_Hackerton"> Dev Day 일반트랙</a></td>
 <td>동아대학교 소프트웨어혁신센터</td>
-<td>2026.08</td>
+<td>2026.11</td>
 <td>우수상</td>
 </tr>
 
